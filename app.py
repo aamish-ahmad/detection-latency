@@ -317,5 +317,5 @@ Enter your Gemini API key in Tab 1 to see a **live side-by-side comparison**.
 Get a free key at [aistudio.google.com](https://aistudio.google.com).
     """)
 
-st.caption("TrajAudit | Frostbyte Hackathon 2026")
- 
+st.caption("TrajAuditgit add . && git commit -m "update" && git push
+")
