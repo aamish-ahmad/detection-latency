@@ -1,2 +1,5 @@
 streamlit
 plotly
+scikit-learn
+google-generativeai
+numpy
