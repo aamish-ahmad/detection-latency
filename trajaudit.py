@@ -318,3 +318,4 @@ Get a free key at [aistudio.google.com](https://aistudio.google.com).
     """)
 
 st.caption("TrajAudit | Frostbyte Hackathon 2026")
+ 
