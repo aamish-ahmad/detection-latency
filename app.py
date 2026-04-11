@@ -634,6 +634,6 @@ with tab4:
 st.divider()
 st.markdown(
     "**TrajAudit** · Detection Latency in Conversational AI Monitoring · "
-    "Aamish Ahmad · MSc Data Science, VIT Vellore · 2026 · "
+    "Aamish Ahmad · MSc Data Science · 2026 · "
     "[GitHub](https://github.com/aamish-ahmad/detection-latency)"
 )

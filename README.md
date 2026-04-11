@@ -253,7 +253,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 **"Trajectory Blindness as Detection Latency in Conversational Monitoring"**
 
-Aamish Ahmad · VIT Vellore · MSc Data Science 2026
+Aamish Ahmad · MSc Data Science 2026
 
 📄 [Read the full paper](docs/trajectory_blindness_paper.pdf)
 
@@ -279,7 +279,7 @@ DOI: https://doi.org/10.17605/OSF.IO/7GU29
 ## Author
 
 **Aamish Ahmad**  
-MSc Data Science, VIT Vellore · 2026  
+MSc Data Science · 2026  
 📧 aamish.ahmad99@gmail.com  
 🔗 [GitHub](https://github.com/aamish-ahmad)
 
