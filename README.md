@@ -58,7 +58,6 @@ We introduce a lower-level signal based on latent trajectory geometry.
 
 *Figure 1 — Embedding drift (global shift) begins increasing around turn ~12–15, while local instability (jump) and observable signals (repetition) appear later (~35–40), demonstrating detection latency across signal layers.*
 
-
 ### Example: Conversion Phase Dynamics
 
 ![Conversion Phase Signals](figures/case2.png)
@@ -179,7 +178,7 @@ These do not invalidate the core claim.
 
 ## Live Demo
 
-https://kxibsjdcufwvh5kvh2hyqc.streamlit.app
+https://aamish-ahmad-trajaudit.hf.space/
 
 ---
 
